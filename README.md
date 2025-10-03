@@ -1,2 +1,2 @@
-# 1D-Array
-3rd Oct Assignment 
+# Programs
+Tech mahindra 

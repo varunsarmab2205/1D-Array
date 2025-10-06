@@ -23,3 +23,17 @@ public class Prime {
 		}
 	}
 }
+
+// output:
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 1 is not prime
+// 2 is prime    
+// 3 is prime    
+// 4 is not prime
+// 5 is prime    
+// 6 is not prime
